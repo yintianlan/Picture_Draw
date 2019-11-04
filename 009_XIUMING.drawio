@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T02:47:29.575Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="zUah9y4DeY8lLruVtNSE" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T02:47:58.467Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="gQ8XGTqnjJQRcC2J07Rj" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
             <mxPoint x="920" y="826" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D-0crWyyb3UeT7KklOJ1-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;打开外围电路电源&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
+        <mxCell id="D-0crWyyb3UeT7KklOJ1-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;打开外围电路电源&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
           <mxGeometry x="860" y="706" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="D-0crWyyb3UeT7KklOJ1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;" parent="tD7m0J1AVj7Mmlp5e4tH-1" source="D-0crWyyb3UeT7KklOJ1-10" edge="1">
@@ -471,7 +471,7 @@
         <mxCell id="D-0crWyyb3UeT7KklOJ1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;" parent="tD7m0J1AVj7Mmlp5e4tH-1" source="D-0crWyyb3UeT7KklOJ1-14" target="D-0crWyyb3UeT7KklOJ1-17" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="D-0crWyyb3UeT7KklOJ1-14" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;轮询处理：&lt;br&gt;采集电压，检测信号，控制外设，与应用通信等&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;fontFamily=Helvetica;align=center;strokeColor=#82b366;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
+        <mxCell id="D-0crWyyb3UeT7KklOJ1-14" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;轮询处理：&lt;br&gt;采集电压，检测信号，控制外设，与应用通信等&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
           <mxGeometry x="835" y="1145" width="170" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="D-0crWyyb3UeT7KklOJ1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryPerimeter=0;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;fontSize=15;" parent="tD7m0J1AVj7Mmlp5e4tH-1" source="D-0crWyyb3UeT7KklOJ1-17" target="D-0crWyyb3UeT7KklOJ1-20" edge="1">
@@ -661,7 +661,7 @@
         <mxCell id="D-0crWyyb3UeT7KklOJ1-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="tD7m0J1AVj7Mmlp5e4tH-1" source="D-0crWyyb3UeT7KklOJ1-65" target="D-0crWyyb3UeT7KklOJ1-10" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="D-0crWyyb3UeT7KklOJ1-65" value="发送POWER KEY&lt;br&gt;唤醒信号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#d5e8d4;fontFamily=Helvetica;align=center;strokeColor=#82b366;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
+        <mxCell id="D-0crWyyb3UeT7KklOJ1-65" value="发送POWER KEY&lt;br&gt;唤醒信号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#f8cecc;fontFamily=Helvetica;align=center;strokeColor=#b85450;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
           <mxGeometry x="860" y="766" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="D-0crWyyb3UeT7KklOJ1-66" value="关闭所有电源&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
