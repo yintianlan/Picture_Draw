@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:15:47.562Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="VBawi6noiV2VLv8mT-Ac" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T07:16:31.736Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="jYS2YO1aygWU__UsboE2" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -876,10 +876,8 @@
             <mxPoint x="807.5" y="1077.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-12" target="XgHqhtt3kf2zhtKgEBcY-98">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1066.4999999999995" y="1005.0294117647059" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-183" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-12" target="XgHqhtt3kf2zhtKgEBcY-98">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-12" value="等待系统启动信号，&lt;br&gt;CPU已经唤醒？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffffff;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="727.5" y="977.5" width="160" height="80" as="geometry"/>
