@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T04:31:19.715Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="-UCHVZ0EUGiPQBmRwiyA" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T04:31:50.513Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="JBVmERjcgqa6sGBA9Vdd" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -816,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IPtUBji8vVhPDwKIOTMl" name="第 3 页">
-    <mxGraphModel dx="2740" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Sy-yIQA1I8LukZDD4osC-0"/>
         <mxCell id="Sy-yIQA1I8LukZDD4osC-1" parent="Sy-yIQA1I8LukZDD4osC-0"/>
@@ -1215,7 +1215,7 @@
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-122" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1322.5" y="394.5" as="targetPoint"/>
+            <mxPoint x="1320" y="395" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-97" value="休眠电池消耗错误" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#fff2cc;fontFamily=Helvetica;align=center;strokeColor=#d6b656;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
@@ -1240,6 +1240,9 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-100">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1322.5" y="1840.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1302" y="1841"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-100" value="休眠os信号超时错误" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#fff2cc;fontFamily=Helvetica;align=center;strokeColor=#d6b656;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
