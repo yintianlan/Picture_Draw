@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T02:48:54.754Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="Zuknbb_WYCS6P_sQH7nl" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T02:49:24.866Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="Cw0fohQqOzCtY6dvWHdA" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,7 +542,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D-0crWyyb3UeT7KklOJ1-28" value="&lt;b&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ACC ON&lt;br&gt;休眠唤醒&lt;br&gt;热启动&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
-          <mxGeometry x="795" y="1954.5" width="80" height="60" as="geometry"/>
+          <mxGeometry x="787" y="1964.5" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="D-0crWyyb3UeT7KklOJ1-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;上电开机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" parent="tD7m0J1AVj7Mmlp5e4tH-1" vertex="1">
           <mxGeometry x="985" y="236.5" width="140" height="20" as="geometry"/>
