@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:16:31.736Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="jYS2YO1aygWU__UsboE2" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T07:23:33.599Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="_gJmOH0Mzsjh2Hljg3Tm" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -891,7 +891,7 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-16" target="XgHqhtt3kf2zhtKgEBcY-19">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-16" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;轮询处理：&lt;br&gt;采集电压，检测信号，控制外设，与应用通信等&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-16" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;轮询处理：&lt;br&gt;采集电压，检测信号，控制外设，与应用通信等，上报错误&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="722.5" y="1296.5" width="170" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;entryPerimeter=0;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontFamily=Helvetica;fontSize=15;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-19" target="XgHqhtt3kf2zhtKgEBcY-22">
@@ -932,6 +932,15 @@
               <mxPoint x="808" y="2500"/>
               <mxPoint x="413" y="2500"/>
               <mxPoint x="413" y="132"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-192" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=1.026;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-24" target="XgHqhtt3kf2zhtKgEBcY-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="876" y="2190" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="940" y="2410"/>
+              <mxPoint x="940" y="2301"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1072,17 +1081,11 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-59" value="开始发送POWER KEY&lt;br&gt;唤醒信号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#f8cecc;fontFamily=Helvetica;align=center;strokeColor=#b85450;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="742.5" y="907.5" width="128" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-194" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-60" target="XgHqhtt3kf2zhtKgEBcY-174">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-60" value="关闭所有电源&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="470.5" y="2041" width="120" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-61" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-60" target="XgHqhtt3kf2zhtKgEBcY-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="592.5" y="2090" as="sourcePoint"/>
-            <mxPoint x="727.5" y="2217" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="531" y="2410"/>
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-63">
           <mxGeometry relative="1" as="geometry">
@@ -1146,11 +1149,11 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-79" value="&lt;font color=&quot;#ff0000&quot;&gt;N 20s后&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontFamily=Helvetica;fontSize=15;fontStyle=1" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="810.5" y="2000" width="70" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-121" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-83" target="XgHqhtt3kf2zhtKgEBcY-24">
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-121" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-83" target="XgHqhtt3kf2zhtKgEBcY-174">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="888.5" y="2189.5" as="targetPoint"/>
+            <mxPoint x="880" y="2170" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="1322" y="2410"/>
+              <mxPoint x="1322" y="2285"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1188,7 +1191,7 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-92" value="&lt;b&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ACC ON&lt;br&gt;下次启动为冷启动&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="533.5" y="2085" width="140" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-93" value="&lt;font style=&quot;font-size: 26px&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;ACC ON&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-93" value="&lt;font style=&quot;font-size: 26px&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;1.ACC ON&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="925.5" y="2510" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-95" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f8cecc;strokeWidth=2;fontFamily=Helvetica;fontSize=15;strokeColor=#b85450;gradientColor=#ea6b66;width=10.833333333333334;endSize=10.641666666666667;endWidth=20;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1">
@@ -1201,7 +1204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-96" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;（&lt;/b&gt;MCU从睡眠中唤醒&lt;b&gt;）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
-          <mxGeometry x="1055.5" y="2500" width="330" height="20" as="geometry"/>
+          <mxGeometry x="1080" y="2520" width="330" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-122" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-97">
           <mxGeometry relative="1" as="geometry">
@@ -1314,14 +1317,20 @@
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-180" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-173" target="XgHqhtt3kf2zhtKgEBcY-174">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-173" value="MCU定时10s&lt;br&gt;唤醒喂狗" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-173" value="MCU定时10Min&lt;br&gt;唤醒检查电池" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="742.5" y="2150" width="130" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-181" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="Sy-yIQA1I8LukZDD4osC-1" source="XgHqhtt3kf2zhtKgEBcY-174" target="XgHqhtt3kf2zhtKgEBcY-24">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="XgHqhtt3kf2zhtKgEBcY-174" value="MCU定时10Min&lt;br&gt;唤醒检查电池" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-174" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;MCU定时10s唤醒喂狗&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="742.5" y="2260" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-187" value="&lt;font style=&quot;font-size: 26px&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;2.定时器唤醒&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+          <mxGeometry x="912.5" y="2550" width="210" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XgHqhtt3kf2zhtKgEBcY-195" value="喂狗" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
+          <mxGeometry x="945.5" y="2338" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
