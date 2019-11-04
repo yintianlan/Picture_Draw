@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:29:11.261Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="qJ9vzIyXtf_Q1NaAFa6S" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T07:29:19.321Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="jnhfP_MKLUZPnxR99_SJ" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -969,7 +969,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-31" value="&lt;b&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ACC ON&lt;br&gt;下次启动为热启动&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
-          <mxGeometry x="875.5" y="2080" width="140" height="40" as="geometry"/>
+          <mxGeometry x="817.5" y="2090" width="140" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;上电开机&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
           <mxGeometry x="915.5" y="20" width="140" height="20" as="geometry"/>
