@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T07:29:19.321Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="jnhfP_MKLUZPnxR99_SJ" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T07:29:25.690Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" etag="-7DcjYEmK_pOcdS5WjFL" version="12.1.9" type="github" pages="3">
   <diagram id="gNadpmQkBz4rUAjaJOd1" name="第 1 页">
     <mxGraphModel dx="2370" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1341,7 +1341,7 @@
           <mxGeometry x="945.5" y="2338" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XgHqhtt3kf2zhtKgEBcY-198" value="等待ACC OFF" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="Sy-yIQA1I8LukZDD4osC-1">
-          <mxGeometry x="1370" y="1970" width="90" height="20" as="geometry"/>
+          <mxGeometry x="1365" y="1960" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
