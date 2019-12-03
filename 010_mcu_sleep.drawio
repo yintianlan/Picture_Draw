@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-03T04:00:28.253Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="CLMIEctHl42WGscYspjX" version="12.3.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-03T04:01:15.312Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="Glt9XPLT4HD--kOW21ZX" version="12.3.5" type="github" pages="2">
   <diagram id="Y6v8nzA5FNVbJ03TsI4E" name="第 1 页">
-    <mxGraphModel dx="861" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -359,7 +359,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="748" y="1170" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="1189" y="1175"/>
+              <mxPoint x="1189" y="1169"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -483,7 +483,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="o94DS6Sg72Vw6cGlDnoI-125" value="MCU定时10Min&lt;br&gt;唤醒检查电池" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=none;fontFamily=Helvetica;align=center;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="613.5" y="1150" width="130" height="50" as="geometry"/>
+          <mxGeometry x="613.5" y="1144" width="130" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="o94DS6Sg72Vw6cGlDnoI-126" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="o94DS6Sg72Vw6cGlDnoI-127" target="o94DS6Sg72Vw6cGlDnoI-31">
           <mxGeometry relative="1" as="geometry"/>
@@ -517,8 +517,9 @@
             <mxPoint x="1198.9411764705883" y="919.6470588235293" as="targetPoint"/>
             <mxPoint x="1038" y="-770" as="sourcePoint"/>
             <Array as="points">
+              <mxPoint x="1034" y="-757"/>
               <mxPoint x="1328" y="-757"/>
-              <mxPoint x="1328" y="1059"/>
+              <mxPoint x="1328" y="1060"/>
             </Array>
           </mxGeometry>
         </mxCell>
