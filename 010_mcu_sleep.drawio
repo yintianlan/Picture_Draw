@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:07:08.423Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="bR2b35RprQ-xMYTsS68J" version="12.3.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-03T09:08:00.206Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="Zp4I9q99qR5K0quJqxQl" version="12.3.5" type="github" pages="1">
   <diagram id="Y6v8nzA5FNVbJ03TsI4E" name="第 1 页">
     <mxGraphModel dx="2278" dy="2802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -665,14 +665,6 @@
         <mxCell id="o94DS6Sg72Vw6cGlDnoI-171" value="开始发送POWER KEY&lt;br&gt;唤醒信号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fillColor=#f8cecc;fontFamily=Helvetica;align=center;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="598" y="-140" width="128" height="40" as="geometry"/>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="fsA0vPATJbpGCARd5WlE" name="第 2 页">
-    <mxGraphModel dx="1248" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="87QAQ2MxQ2FPNaV-pAiC-0"/>
-        <mxCell id="87QAQ2MxQ2FPNaV-pAiC-1" parent="87QAQ2MxQ2FPNaV-pAiC-0"/>
       </root>
     </mxGraphModel>
   </diagram>
