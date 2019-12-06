@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-06T04:11:17.059Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="rNddt6ciSuDi0ZmvPJqs" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T04:11:29.967Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="hiIQ2dlVOFMa0oyTfR6o" version="12.3.7" type="github" pages="1">
   <diagram id="Y6v8nzA5FNVbJ03TsI4E" name="第 1 页">
-    <mxGraphModel dx="416" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -667,7 +667,7 @@
           <mxGeometry x="598" y="-140" width="128" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="YbkoDKUKVzoLkoy8YAR5-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ACC ON :拉高ACC状态同步脚&lt;br&gt;ACC OFF :拉低ACC状态同步脚&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=middle;spacingTop=-4;fontFamily=Helvetica;labelPosition=center;verticalLabelPosition=middle;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1480" width="300" height="40" as="geometry"/>
+          <mxGeometry x="973.5" y="1480" width="300" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="YbkoDKUKVzoLkoy8YAR5-8" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;fontFamily=Helvetica;align=center;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="921.5" y="1480" width="38" height="40" as="geometry"/>
