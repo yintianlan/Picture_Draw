@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-11T03:45:05.976Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="J-XPKgvv4wQlwdNpBd_4" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-11T03:46:18.048Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="xI5PwsxFKek1v0kmotJ-" version="12.3.9" type="github" pages="1">
   <diagram id="Y6v8nzA5FNVbJ03TsI4E" name="第 1 页">
-    <mxGraphModel dx="2080" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -442,11 +442,11 @@
         <mxCell id="o94DS6Sg72Vw6cGlDnoI-118" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;打开系统外设电源&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;whiteSpace=wrap;fontFamily=Helvetica;align=center;" parent="1" vertex="1">
           <mxGeometry x="414" y="-320" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="o94DS6Sg72Vw6cGlDnoI-179" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="o94DS6Sg72Vw6cGlDnoI-120" edge="1">
+        <mxCell id="LSGI6WjDCP5gzcdELxTh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="o94DS6Sg72Vw6cGlDnoI-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="-130" as="targetPoint"/>
+            <mxPoint x="650" y="-140" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="814" y="-130"/>
+              <mxPoint x="815" y="-140"/>
             </Array>
           </mxGeometry>
         </mxCell>
