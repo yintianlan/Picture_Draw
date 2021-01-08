@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T06:04:49.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8VORCeZsqV6nt7KYVGYK" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-08T06:11:31.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="knYP51Ry3g6Esbtz5vIe" version="14.1.2" type="github" pages="6">
   <diagram id="d8l00uiHQtOS9tGdw6t3" name="USART">
     <mxGraphModel dx="1115" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -582,7 +582,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="260tMoInS36hZfMwH75R" name="第 6 页">
-    <mxGraphModel dx="259" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-0" />
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-1" parent="QopnRDz0Bi1V4K2YW3ER-0" />
@@ -631,7 +631,7 @@
             <mxPoint x="750" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QopnRDz0Bi1V4K2YW3ER-25" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-24">
+        <mxCell id="QopnRDz0Bi1V4K2YW3ER-25" value="dev1" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-26" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
@@ -640,7 +640,7 @@
             <mxPoint x="750" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QopnRDz0Bi1V4K2YW3ER-27" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-26">
+        <mxCell id="QopnRDz0Bi1V4K2YW3ER-27" value="dev2" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-28" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
@@ -649,7 +649,7 @@
             <mxPoint x="750" y="339.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QopnRDz0Bi1V4K2YW3ER-29" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-28">
+        <mxCell id="QopnRDz0Bi1V4K2YW3ER-29" value="dev3" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-30" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
@@ -708,6 +708,24 @@
         </mxCell>
         <mxCell id="QopnRDz0Bi1V4K2YW3ER-47" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
           <mxGeometry x="650" y="470" width="50" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="-udPfNBz3oDh-_-Y_oPV-0" value="" style="endArrow=classic;html=1;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="320" y="461.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-udPfNBz3oDh-_-Y_oPV-1" value="UART" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-udPfNBz3oDh-_-Y_oPV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-udPfNBz3oDh-_-Y_oPV-2" value="" style="endArrow=classic;html=1;strokeWidth=3;" edge="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="419.9999999999998" as="sourcePoint" />
+            <mxPoint x="620" y="419.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-udPfNBz3oDh-_-Y_oPV-3" value="GPIO List" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-udPfNBz3oDh-_-Y_oPV-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
