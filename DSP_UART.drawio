@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T04:29:01.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="L58x9EHqJSBDNqud8KCl" version="14.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-11T04:30:28.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K_r0gwExJgSkUuETCicm" version="14.1.8" type="github" pages="6">
   <diagram id="d8l00uiHQtOS9tGdw6t3" name="USART">
     <mxGraphModel dx="1115" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,8 +719,8 @@
         <mxCell id="0xvuDgGjd-OiQxvp_LA5-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;TAS6424&lt;br&gt;1~2&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
           <mxGeometry x="620" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0xvuDgGjd-OiQxvp_LA5-16" value="运放供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
-          <mxGeometry x="125" y="270" width="60" height="20" as="geometry" />
+        <mxCell id="0xvuDgGjd-OiQxvp_LA5-16" value="运放供电/&lt;br&gt;DSP供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
+          <mxGeometry x="125" y="265" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0xvuDgGjd-OiQxvp_LA5-17" value="5V供电" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="QopnRDz0Bi1V4K2YW3ER-1">
           <mxGeometry x="135" y="310" width="50" height="20" as="geometry" />
