@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T01:20:06.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PIJyaTasRiiEtaWcZd-g" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T01:40:07.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hWV69XAx-6MSD5DEua1t" version="14.1.9" type="github" pages="3">
   <diagram id="wu7fYshYDeyZRAyVXoCj" name="MCU_Frame">
     <mxGraphModel dx="1115" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="720" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0PUmPbpPbkksMGmGsOkH-16" value="UART" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0PUmPbpPbkksMGmGsOkH-15" connectable="0" vertex="1">
+        <mxCell id="0PUmPbpPbkksMGmGsOkH-16" value="USB" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="0PUmPbpPbkksMGmGsOkH-15" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0PUmPbpPbkksMGmGsOkH-17" value="" style="endArrow=classic;html=1;strokeWidth=3;" parent="1" edge="1">
@@ -214,6 +214,9 @@
         </mxCell>
         <mxCell id="Nrg2ORdTWsCYRtNfl8Oj-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#004c99&quot;&gt;DEBUG&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="660" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrg2ORdTWsCYRtNfl8Oj-12" value="DSP主从判断，2bit可识别4个DSP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
